@@ -1,0 +1,33 @@
+body{
+  background-color:light-blue
+}
+p{
+  font-family: futura;
+  font-align: center;
+}
+h1{
+  font-family: futura;
+  font-align: center;
+}
+h2{
+  font-family: futura;
+  font-align: center;
+}
+mint{
+  font-family: futura;
+  font-align: center;
+  color:green;
+  font-size:24px;
+}
+pink{
+  font-family: futura;
+  font-align: center;
+  color:pink;
+  font-size:24px;
+}
+classic{
+  font-family: futura;
+  font-align: center;
+  color:yellow;
+  font-size:24px;
+}
